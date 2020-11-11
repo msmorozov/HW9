@@ -66,12 +66,12 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="coreAnimationView" destination="QJb-6s-Qnb" id="Otq-3I-oH8"/>
+                        <outlet property="coreAnimationView" destination="boT-DY-y0Z" id="1L6-ea-32Z"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="13.6" y="89.505247376311857"/>
+            <point key="canvasLocation" x="-105" y="150"/>
         </scene>
     </scenes>
     <resources>
